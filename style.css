@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: none;
+    box-sizing: border-box;
+}
+img {
+    border-radius: 5%;
+    width: 360px;
+    height: 280px;
+    margin-left: 400px;
+    box-shadow: 0px 0px 10px red;
+    margin-top: -190px;
+    
+}
+body {
+    margin-left: 2%;
+    border: 5px solid black;
+    box-shadow: 0px 0px 10px black;
+    width: 780px;
+}
+li {
+    margin-left: 16px;
+}
